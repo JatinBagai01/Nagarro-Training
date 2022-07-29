@@ -54,7 +54,7 @@ var addTask = function() {
   incompleteTasksHolder.appendChild(listItem);
   bindTaskEvents(listItem, taskCompleted);
 }
-  taskInput.value = "Add a new task :)";
+  taskInput.value = "";
 };
 
 
