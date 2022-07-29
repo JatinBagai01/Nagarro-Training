@@ -1,4 +1,5 @@
 /* Basic Style */
+
 body {
     background: #E4FDE1;
     color: #456990;
@@ -16,12 +17,14 @@ body {
     background-size: fixed;
 }
 
+
 .container2 {
     padding-left: 30px;
     padding-right: 70px;
     overflow-y: auto;
     /* float: left; */
     height: 450px;
+    overflow-y: overlay;
 }
 
 ul {
