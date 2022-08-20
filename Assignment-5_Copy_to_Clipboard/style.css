@@ -21,7 +21,14 @@ h1{
     justify-content: center;
 }
 
-.one,.three{
+.one{
+    margin-top: 3vh;
+    margin-left: 20px;
+    min-width: 360px;
+    border:0;
+}
+
+.three{
     margin-top: 3vh;
     margin-left: 20px;
     min-width: 360px;

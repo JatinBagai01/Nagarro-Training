@@ -1,3 +1,10 @@
 body{
     background-color: bisque;
 }
+
+.mykind{
+    background-color: aliceblue;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
