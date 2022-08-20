@@ -1,5 +1,5 @@
 #box{
-    background-color: rgb(255, 209, 196);
+    background-color: aliceblue;
     height:300px;
     width: 700px;
     visibility: hidden;
@@ -11,4 +11,12 @@ body{
 
 #box.show{
     visibility: visible;
+}
+
+
+.mykind{
+    background-color: aliceblue;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
