@@ -1,16 +1,17 @@
-/* html {
-    background: black;
-    height: 100%;
-    overflow: hidden;
-} */
+.card-link svg {
+  fill: rgb(15, 111, 255);
+  height: 20px;
+}
 
-/* body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-} */
+.card-img-top {
+  height: 100%;
+  width: 100%
+}
 
-li {
-    background-color: aqua;
-    background-origin: border-box;
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* padding-bottom: 1px; */
+    /* padding-top: 20px; */
+    /* padding-right: 30px; */
 }
